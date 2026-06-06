@@ -1,0 +1,16 @@
+a=111
+b="Pabitra"
+c=True
+print(a,b,c)
+print(c)
+print(type(a))
+print(type(b))
+print(type(c))
+x=complex(1,2)
+print(x)
+d=["ram",99,"shyam"]#list
+print(type(d))
+e=("ram",99,"shyam")#Tuple
+print(type(e))
+f={"Ram","shyam","hari"}#Set
+print(type(f))

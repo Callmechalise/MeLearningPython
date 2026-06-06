@@ -1,0 +1,4 @@
+SQLite (sqlite3) – Built-in and great for local databases.
+MySQL (mysql-connector-python, PyMySQL) – If you want to work with MySQL.
+PostgreSQL (psycopg2) – If you prefer PostgreSQL.
+pandas ,functools and etx
